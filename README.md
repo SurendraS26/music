@@ -8,6 +8,15 @@ To listen my music
 ```
 mpv <flac_url/link>
 ```
+Example:
+```
+[surendra@loq ~]$ mpv https://github.com/SurendraS26/music/raw/refs/heads/main/Amethyst/Amethyst.flac
+● Audio  --aid=1  (flac 2ch 44100 Hz)
+AO: [pipewire] 44100Hz stereo 2ch s16
+A: 00:01:59 / 00:02:00 (100%) Cache: 0.1s/0KB
+Exiting... (End of file)
+[surendra@loq ~]$ 
+```
 License
 ```
 Creative Commons Legal Code
