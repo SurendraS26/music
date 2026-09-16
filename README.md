@@ -6,7 +6,7 @@ Usage
 -----
 To listen my music
 ```
-mpv <flac_url/link>
+mpv <flac_file_raw-url>
 ```
 Example:
 ```
