@@ -1,6 +1,6 @@
 Music
 =====
-I love making music , just turning my feelings into some weird sounds.
+The only way to express myself is through these sounds.
 
 Usage
 -----
