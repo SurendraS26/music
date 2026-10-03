@@ -1,7 +1,6 @@
 Music
 =====
-The only way to express myself is through these sounds.
-
+I don't talk much, i turn them into sounds.
 Usage
 -----
 To listen my music
