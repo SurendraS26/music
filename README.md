@@ -1,8 +1,9 @@
-Music
-=====
+Music Production
+================
 
-I make my own music on my laptop using FL Studio.
-> Warning: Too much Bass and treble
+I make these sounds when i'm alone somewhere peaceful, These sounds come into my mind when i'm sitting silent, so i transform them into beautiful sound's and produce them exporting it as a flac file.
+
+> `its better to listen once if your visiting this repo, not all atleast one.`
 
 Usage
 -----
@@ -10,6 +11,8 @@ To listen my music
 ```sh
 > mpv <flac_file_raw-url>
 ```
+> Note: `mpv` is optional, you could download the flac file and listen to it locally.
+
 Example:
 ```sh
 > [surendra@loq ~]$ mpv https://github.com/SurendraS26/music/raw/refs/heads/main/Amethyst/Amethyst.flac
