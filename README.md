@@ -7,11 +7,11 @@ I make my own music on my laptop using FL Studio.
 Usage
 -----
 To listen my music
-```
+```sh
 > mpv <flac_file_raw-url>
 ```
 Example:
-```
+```sh
 > [surendra@loq ~]$ mpv https://github.com/SurendraS26/music/raw/refs/heads/main/Amethyst/Amethyst.flac
   ● Audio  --aid=1  (flac 2ch 44100 Hz)
   AO: [pipewire] 44100Hz stereo 2ch s16
