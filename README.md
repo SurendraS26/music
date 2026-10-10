@@ -11,8 +11,13 @@ To listen my music
 ```sh
 > mpv <flac_file_raw-url>
 ```
+<<<<<<< HEAD
 > Note: `mpv` is optional, you could download the flac file and listen to it locally.
 
+=======
+mpv <flac_url/link>
+```
+>>>>>>> parent of 4a7863f (Minor change README.md)
 Example:
 ```sh
 > [surendra@loq ~]$ mpv https://github.com/SurendraS26/music/raw/refs/heads/main/Amethyst/Amethyst.flac
